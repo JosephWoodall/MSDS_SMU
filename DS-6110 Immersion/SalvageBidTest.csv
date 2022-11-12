@@ -1,0 +1,704 @@
+﻿Vehicle_ID,Pre_Accident_Value,Cost_of_repair,odometer,engine_displacement,Damage_Type,make_nm,model_nm,fuel_type,Age
+2949,3332,2554.8,50397,998,Front End,Peugeot,107,Petrol,12
+885,10250.065,17000,177016,2987,Front End,Jeep,Grand Cherokee,Diesel,11
+135,3927,5420.2,249189,1686,Rear End,Opel,Astra,Diesel,9
+1351,20468,22881.8,66194,1591,Side,Kia,Cee'd,Petrol,3
+2823,3451,3986.3,96269,1299,Front End,Ford,Fiesta,Petrol,11
+1850,6899.977,7178,100856,1390,Front End,Volkswagen,Golf VI,Petrol,9
+2940,5355,5891.6,110091,1198,Front End,Volkswagen,Polo,Petrol,9
+2364,5099.983,8150,118586,1595,Side,Volkswagen,New Beetle,Petrol,11
+3079,6500.018,7750.9,55508,1149,Top/Roof,Renault,Wind,Petrol,7
+1223,16898,14748.8,51748,1598,Front End,Opel,Astra,Petrol,5
+1082,2710.6058,6696.1,156850,1596,Front End,Ford,Fiesta,Petrol,11
+976,4199.986,2347,148735,999,Rear End,Skoda,Fabia,Petrol,7
+2680,8211,11000,60852,1242,Hail,Suzuki,Swift,Petrol,7
+831,5999.98,5327,169352,1968,Front End,Audi,A4,Diesel,13
+2313,4499.985,8403.4,85738,1368,Front End,FIAT,Grande Punto,Petrol,9
+2206,13499.955,6538.1,117266,1984,Front End,Volkswagen,Beetle,Petrol,7
+1524,9306.7,7827,18299,999,Rear End,Volkswagen,Up,Petrol,0
+2122,3570,3700,126491,1598,Front End,Opel,Astra H Caravan,Petrol,14
+2959,5900.02,8223,82947,1329,Side,Toyota,Yaris,Petrol,9
+2977,9800.007,8524.7,67822,1328,Side,Suzuki,Jimny,Petrol,9
+2927,7616,6473.5,51079,999,Side,Mitsubishi,Space Star,Petrol,5
+3074,12019,8932.2,101964,1596,Rear End,Ford,Focus,Petrol,5
+2171,16300.025,14539,44184,1395,Front End,Volkswagen,Golf,Petrol,3
+11,13090,9968,156940,999,Front End,Audi,A3,Diesel,4
+699,26061,24635.5,95434,1968,Water/Flood,Audi,A5  Sportback,Diesel,5
+2413,6545,6064.9,65896,1198,Front End,Honda,Jazz,Petrol,6
+230,12971,10405.8,101696,1997,Front End,Citroen,C4,Diesel,6
+387,15351,13595.7,100768,1995,Rear End,BMW,X3,Diesel,9
+324,5800,3626.3,185503,1560,Side,Citroen,Berlingo,Diesel,4
+2995,7973,8559,73508,1386,Rear End,Nissan,Note,Petrol,6
+907,34000,29755.8,33045,1968,Side,Volkswagen,Sharan,Diesel,2
+2634,3699.948,3513.8,67298,1299,Front End,Ford,Fiesta,Petrol,12
+941,7021,9712,104458,999,Water/Flood,Ford,Fiesta,Petrol,7
+572,16120.44444,7258.4,22663,1968,Front End,Audi,A3,Diesel,0
+2196,3099.95,3359.9,63853,1086,Side,Hyundai,i10,Petrol,9
+233,5950,3109.6,100214,1910,Front End,Suzuki,Sx4,Diesel,10
+2865,5600.021,4788.1,145189,1781,Front End,Volkswagen,New Beetle,Petrol,10
+2918,3500.028,4371.6,129620,1198,Front End,Volkswagen,Polo IV,Petrol,11
+2410,8600.011,13445.4,22255,1598,Front End,Chevrolet,Cruze,Petrol,5
+2238,14705.9,5825.8,7205,999,Side,Volkswagen,Polo VI,Petrol,0
+1640,2999.99,3787.2,157125,1598,Front End,Opel,Meriva,Petrol,13
+1989,6200.019,8192.6,84557,1390,Front End,Skoda,Fabia,Petrol,8
+369,13865.5,4575.1,5699,1461,Side,Nissan,Micra,Diesel,1
+759,19747.9,10646.5,18953,1968,Rear End,Volkswagen,Golf,Diesel,1
+636,4411.8,4628.8,152047,1598,Front End,Skoda,Fabia,Diesel,8
+1442,8211,9562,14298,1998,Front End,Renault,Megane Scenic,Petrol,9
+2457,15100.029,14482.6,101134,1798,Front End,Audi,TT,Petrol,6
+2349,9899.967,8549.7,35666,1248,Front End,Hyundai,i20,Petrol,3
+570,13999.993,10138.7,103044,1968,Front End,Volkswagen,Golf VI,Diesel,6
+2800,4899.944,5956.6,74055,1596,Front End,Ford,Focus,Petrol,13
+1352,5355,5553,85272,1349,Side,Mazda,3,Petrol,11
+428,4499.985,3437,312384,1968,Side,Volkswagen,Passat Variant,Diesel,12
+1840,6549.998,8870.2,38016,1198,Front End,Skoda,Fabia,Petrol,7
+691,9341.5,8122.9,140100,1582,Side,Hyundai,i30,Diesel,5
+1841,17649.961,12271.5,40760,1197,Front End,Volkswagen,Golf VII Sportsvan,Petrol,3
+224,9639,7090.6,183768,1995,Front End,BMW,1,Diesel,9
+1263,4400.025,4675,150717,999,Front End,Mercedes-Benz,A,Petrol,12
+2426,7499.975,12543.7,157378,2976,Front End,Audi,A4,Petrol,15
+112,10115,8421.4,92272,2148,Front End,Mercedes-Benz,C,Diesel,13
+647,4100.026,4985.5,119662,1991,Front End,Mercedes-Benz,A-Klasse,Diesel,13
+2852,14161,10207.8,41171,1197,Side,Volkswagen,Polo V,Petrol,3
+2759,8449,11765,129037,1995,Front End,BMW,1er,Petrol,8
+1937,7310.9,7909,13052,1699,Front End,Mercedes-Benz,A 180,Petrol,9
+2570,4165,15000,76032,1598,Water/Flood,Renault,Clio,Petrol,11
+1894,8999.97,8701.8,88378,1798,Rear End,Toyota,Auris,Petrol,7
+1707,5200.062,6468.6,111701,1598,Front End,Renault,Megane II Grandtour,Petrol,8
+1963,5999.98,8100,261408,1497,Front End,Toyota,Prius,Petrol,9
+1763,7378,10108,34987,998,Side,Toyota,Aygo,Petrol,4
+2027,3510.5,4630.4,138580,1240,Rear End,Nissan,Micra,Petrol,10
+2334,5999.98,2972.8,95164,999,Undercarriage,Seat,Mii,Petrol,5
+2783,4641,5892.4,63599,1360,Side,Peugeot,206,Petrol,9
+2047,8749.951,7749.3,42529,1598,Side,Peugeot,308,Petrol,7
+1214,10412.5,12892.2,32997,1198,Side,Honda,Jazz,Petrol,5
+534,4700.024,17000,241569,1995,Front End,BMW,1,Diesel,12
+1616,5999.98,5413.5,110588,1595,Side,Audi,A3,Petrol,11
+2654,5355,2333.7,112941,1596,Front End,Ford,Fusion,Petrol,10
+35,10400.005,9446,146278,1968,Side,Volkswagen,Passat,Diesel,6
+2819,4284,5395.3,47138,1242,Front End,FIAT,Grande Punto,Petrol,9
+2304,16554.6,13009.4,16207,1498,Front End,Volkswagen,GOLF VII,Petrol,1
+225,6302.5,8780.7,191409,1560,Rear End,Ford,Focus,Diesel,5
+658,2058.8,3682.6,150218,1422,Front End,Skoda,Fabia,Diesel,11
+1542,12495,5157.6,47680,1498,Rear End,Mercedes-Benz,A,Petrol,5
+551,2199.953,8403.4,246484,1910,Side,Opel,Astra H Caravan,Diesel,13
+2709,5712,12605,126223,1598,Side,Opel,Astra,Petrol,11
+2465,6500.018,7317.6,98818,1339,Front End,Honda,Civic,Petrol,9
+2486,7249.956,7437.4,108898,1390,Front End,Volkswagen,Golf VI,Petrol,7
+1207,3808,3032.4,171042,1390,Front End,Skoda,Fabia Combi,Petrol,11
+1438,6902,12605,116236,1699,Front End,Mercedes-Benz,A,Petrol,9
+159,16303,13967,73550,999,Rear End,Volkswagen,Golf,Diesel,3
+1358,15232,11986.5,40563,1390,Side,Volkswagen,Passat,Petrol,6
+1355,6069,6061.1,145590,1368,Rear End,FIAT,Bravo,Petrol,9
+1081,4998,5926.2,76995,1229,Rear End,Opel,Corsa,Petrol,10
+943,8925,4642,80941,999,Side,Volkswagen,Golf,Petrol,9
+1375,3689,1830.5,93569,1390,Front End,Seat,Ibiza,Petrol,11
+1958,5099.983,8067.2,90570,1229,Front End,Opel,Corsa D,Petrol,8
+2240,6972.074,9711,117385,1198,Side,Volkswagen,Polo,Petrol,7
+21,3109.2,1905,152409,999,Side,Opel,Vivaro,Diesel,10
+1282,7021,8227.8,103489,1699,Front End,Mercedes-Benz,A,Petrol,11
+338,8925,12000,155938,1995,Front End,BMW,1,Diesel,10
+294,7333.0061,22689.1,143474,1968,All Over,Volkswagen,Golf,Diesel,6
+1398,7378,7486.6,120153,2435,Front End,Volvo,V70,Petrol,12
+376,12479,4550.9,24583,1598,Rear End,FIAT,Tipo,Diesel,1
+3055,25585,6500,21018,1395,Hail,Skoda,Octavia,Petrol,1
+2076,18697.5,8806.8,16709,1395,Front End,Volkswagen,Golf VII,Petrol,1
+2652,3332,4287.7,163577,1998,Front End,Mercedes-Benz,C-Klasse,Petrol,17
+1753,7249.956,8975.2,95353,1398,Front End,Opel,Meriva,Petrol,7
+1050,13804,10342.4,42805,1197,Front End,Renault,Megane Iii,Petrol,3
+2415,2618,2566.3,117506,1198,Front End,Volkswagen,Fox,Petrol,10
+1801,8999.97,10812.8,74862,1390,Side,Volkswagen,Golf V,Petrol,10
+1348,4998,7517.4,58387,1390,Rear End,Seat,Ibiza,Petrol,10
+2394,7037.382333,11880.3,33448,998,Side,Hyundai,i10,Petrol,2
+2289,17815.1,5527.8,18380,1399,Rear End,Opel,Astra,Petrol,0
+1464,10710,9685.9,56025,1595,Front End,Volkswagen,Golf,Petrol,7
+2038,9439.336842,4274.8,3346,998,Side,Ford,C-Max,Petrol,0
+1190,4403,2785.9,104360,1390,Rear End,Skoda,Fabia Combi,Petrol,11
+1228,6902,5497.9,66702,1598,Front End,Opel,Astra,Petrol,11
+1123,5693.069846,8739.5,121895,1360,Front End,Peugeot,207,Petrol,9
+450,8500.051,7581.3,74131,1598,Rear End,Volkswagen,Polo V,Diesel,6
+743,3451,3634.4,245004,1896,Side,Audi,A3,Diesel,15
+1007,6188,6645.7,183216,1596,Rear End,Ford,Focus,Petrol,7
+750,7735,19690,126686,1992,All Over,Mercedes-Benz,B-Klasse,Diesel,11
+2159,3808,4201.7,97031,998,Front End,Toyota,Yaris,Petrol,13
+1704,2201.5,4084.9,191984,1984,Side,Seat,Altea,Petrol,12
+2146,10900.043,10343.9,85826,1197,Front End,Audi,A3,Petrol,8
+43,3570,8403.4,279065,1910,Front End,Opel,Vectra,Diesel,9
+942,6664,3084,135609,999,Front End,Seat,Ibiza,Petrol,7
+3,11250,21321,102768,999,Front End,Mini,Clubman,Diesel,5
+2591,3200.029,3170,199122,998,Side,Toyota,Yaris,Petrol,10
+28,4284,5500,170369,1997,Burn - Engine,Citroen,C5,Diesel,9
+202,5890.5,2563.2,206720,1896,Side,Volkswagen,Golf,Diesel,10
+765,18300,17000,27767,1956,Hail,Opel,Zafira,Diesel,1
+1350,7675.5,9045.6,79694,1360,All Over,Citroen,C3,Petrol,6
+1705,8231.37875,9762.9,90826,1390,Front End,Volkswagen,Golf,Petrol,6
+2974,5799.941,4155.1,84439,1596,Side,Ford,Focus,Petrol,9
+872,3570,7647.1,82619,1686,Front End,Opel,Astra,Diesel,14
+1754,7400.015,6485.2,84577,1598,Front End,Dacia,Duster,Petrol,5
+567,5882.4,9656,212423,1798,Front End,Mitsubishi,ASX,Diesel,7
+861,4799.984,5456.6,192713,1995,Front End,BMW,3er,Diesel,8
+2252,5799.941,5066.1,125183,1595,Side,Seat,Leon,Petrol,10
+994,3451,4212.1,60923,1497,Side,Nissan,Almera,Petrol,12
+170,13090,10181.8,21651,1422,Front End,Seat,Ibiza,Diesel,1
+2822,5831,6191.1,61299,1388,Normal Wear,Ford,Fusion,Petrol,9
+1574,4509.147339,13753.2,25474,1242,Front End,FIAT,Punto,Petrol,4
+635,14285.7,16680.4,8993,1598,Front End,FIAT,Doblo Cargo/Pritsche,Diesel,1
+1144,9877,11115.4,234785,2996,Rear End,Mercedes-Benz,C,Petrol,11
+970,6961.5,6069,47070,1149,Side,Renault,Clio,Petrol,7
+1644,3099.95,4424.3,188838,1997,Front End,Peugeot,307 CC,Petrol,13
+2532,7050.036,6072.8,43421,1198,Front End,Skoda,Fabia,Petrol,8
+1032,17493,15151.2,25404,1364,Side,Opel,Astra,Petrol,2
+1055,2975,5030.3,167736,1364,Rear End,Opel,Combo,Petrol,11
+1529,10472,8021.8,54959,1390,Front End,Seat,Ibiza,Petrol,5
+893,2899.9705,7126.1,154272,1560,Front End,BMW,Mini,Diesel,10
+250,6247.5,6311.6,162171,1560,Front End,Ford,Focus,Diesel,8
+967,8500.051,163,123333,999,Normal Wear,Volkswagen,Touran,Petrol,10
+403,10199.966,10218.4,100350,1560,Side,Ford,C-Max,Diesel,6
+2246,7100.016,10773.6,77701,1598,Front End,Opel,Astra H GTC,Petrol,8
+1737,2699.991,2400.2,195098,1997,Front End,Peugeot,307 CC,Petrol,12
+758,4522,15000,148246,1560,Side,Mazda,3,Diesel,11
+2194,32773.1,10247.4,5277,1984,Front End,Volkswagen,Tiguan,Petrol,0
+98,18147.5,11978.4,49960,1598,Rear End,Toyota,Verso,Diesel,3
+2093,6649.958,7602.6,95271,1197,Side,Skoda,Fabia,Petrol,8
+2727,5500.061,7708.4,131695,1796,All Over,Opel,Astra,Petrol,9
+2728,8900.01,7913.2,147876,1798,Rear End,Audi,A4,Petrol,10
+1631,8562.9306,8600.5,36395,1242,Front End,Ford,Fiesta,Petrol,2
+1999,4600.064,4045.2,151633,1598,Side,Seat,Ibiza,Petrol,8
+360,21428.6,10219,6703,1968,Side,Skoda,Octavia,Diesel,1
+2113,11500.041,7151.2,22710,998,Front End,Ford,Fiesta,Petrol,2
+594,5399.982,7905.8,179356,2497,Front End,Kia,Sorento,Diesel,12
+660,20549.991,18883.3,139586,2967,Front End,Audi,A6 Avant,Diesel,6
+2736,6699.938,5125.2,54576,1198,Side,Seat,Ibiza SC,Petrol,5
+2270,4849.964,10444,63259,1397,Side,Peugeot,207,Petrol,7
+2279,4600.064,8700,55956,1124,Side,Mitsubishi,Colt,Petrol,7
+1745,5099.983,6122.1,91765,1390,Front End,Volkswagen,Polo,Petrol,12
+208,8823.5,17500,315546,2987,Side,Mercedes-Benz,E,Diesel,9
+89,6899.977,6674,204978,999,Side,Volkswagen,Passat,Diesel,10
+3003,3490.032,4914.1,129481,1198,Rear End,Volkswagen,Polo IV,Petrol,10
+577,9500.008,5939.7,154172,2993,Undercarriage,BMW,3er  Touring,Diesel,11
+3047,4284,3557.1,106721,1388,Front End,Mazda,2,Petrol,13
+2524,10499.965,12690,65123,1364,Side,Opel,Astra,Petrol,6
+1280,3212.0004,5751.8,111072,998,Side,Toyota,Aygo,Petrol,7
+1294,8330,6971.4,67266,1390,Front End,Volkswagen,Golf,Petrol,8
+775,7647.05,5280.2,7654,1560,Side,Peugeot,2008,Diesel,0
+2314,5600.021,6673.2,107698,1796,Side,Mercedes-Benz,C,Petrol,15
+1647,6500.018,5687.4,93593,1198,Front End,Volkswagen,Polo,Petrol,8
+33,9817.5,4811,133683,999,Side,BMW,1,Diesel,10
+973,2380,6142,115246,999,Front End,Chevrolet,Aveo,Petrol,7
+818,3510.5,4030.4,161774,1896,Rear End,Skoda,Fabia,Diesel,11
+3045,5600.021,5689.8,104113,1997,All Over,Renault,Laguna,Petrol,10
+1297,14875,16806.7,118476,1984,Front End,Volkswagen,Golf,Petrol,8
+1455,3867.5,4000.5,147868,998,Front End,Peugeot,107,Petrol,8
+482,4799.984,6802.4,164531,1997,Side,Peugeot,407,Diesel,9
+3059,4044.5125,6832.7,35245,1248,Front End,Hyundai,i20,Petrol,6
+764,4899.944,5887.2,180012,1896,Front End,Volkswagen,Touran,Diesel,13
+8,5831,8161.2,185210,1910,Rear End,Opel,Signum,Diesel,12
+702,16911.75,16771.6,1416,1968,Front End,Audi,A4,Diesel,0
+563,3739.5,7888.2,232101,2148,Side,Mercedes-Benz,E-Klasse,Diesel,14
+2697,6200.019,5756,35607,1242,Side,Ford,Ka,Petrol,8
+1354,5176.5,4946.1,126473,1587,Front End,Peugeot,206,Petrol,10
+2928,1666,1402.5,227258,1368,Normal Wear,FIAT,Grande Punto,Petrol,9
+2994,3899.987,4007.2,95231,1388,Front End,Ford,Fiesta,Petrol,10
+1155,4641,5100,122078,1364,Front End,Opel,Meriva,Petrol,10
+1356,10948,15861.5,131690,1798,Side,Audi,A3,Petrol,9
+1947,3500.028,6395.5,157624,1490,Front End,Suzuki,Swift,Petrol,12
+1664,8448.102091,5153.5,81579,1198,Side,Volkswagen,Polo,Petrol,5
+180,12184.9,12831.7,120160,1995,Front End,BMW,X3,Diesel,9
+2176,6349.959,9371.9,46810,998,Front End,Kia,Picanto,Petrol,5
+1281,4500,5569.6,137134,1198,Rear End,Skoda,Fabia Combi,Petrol,8
+343,6649.958,7060.5,140739,1582,Side,Hyundai,i30,Diesel,6
+2706,3332,3789.4,98292,1108,Front End,FIAT,Panda,Petrol,9
+282,23529.4,11450.5,21063,1685,Side,Hyundai,Tucson,Diesel,0
+2760,8500.051,10554.1,6156,1598,Front End,Renault,Megane,Petrol,4
+481,24159.7,28844,50423,1968,Front End,Volkswagen,Tiguan,Diesel,3
+2079,3989.951,5341.4,93005,1332,Front End,Mitsubishi,Colt,Petrol,12
+1820,6750.037,6716.1,140896,1599,Side,BMW,1,Petrol,10
+1538,8925,4277.4,39143,1396,Rear End,Hyundai,i30,Petrol,7
+2920,7973,15400,84932,1796,Rear End,Opel,Astra H Caravan,Petrol,11
+2771,15232,11238.6,82561,1390,Rear End,Audi,A3,Petrol,7
+462,20168.1,30251.7,13694,1598,All Over,Volkswagen,Golf,Diesel,1
+2674,2337.16,1723.7,181566,1596,All Over,Ford,Focus Turnier,Petrol,16
+2877,8092,14705.9,202506,2171,Front End,BMW,520,Petrol,13
+1451,2380,1428.1,169459,1198,Rear End,Skoda,Fabia,Petrol,11
+2125,5500.061,3901.1,46630,1397,Side,Peugeot,207,Petrol,9
+2211,2860.998,9437.1,78896,1498,Front End,Mazda,2,Petrol,9
+2500,9899.967,16117.6,111272,1390,Front End,Volkswagen,Touran,Petrol,9
+2218,6200.019,5363.1,154129,1995,Side,BMW,3er,Petrol,12
+754,2618,1653.7,136784,1422,Rear End,Volkswagen,Fox,Diesel,12
+1243,10710,9241.1,58224,998,Front End,Ford,Fiesta,Petrol,4
+2323,6500.018,3108.9,66784,1591,Front End,Kia,Pro Ceed,Petrol,9
+1252,7973,20000,101468,999,Front End,Mini,Mini One,Petrol,9
+2809,15708,11528.4,18821,1197,Side,Dacia,Dokker,Petrol,1
+257,7861.88375,4216.6,160931,1991,Side,Mercedes-Benz,A,Diesel,7
+2512,8149.953,11975.6,10995,999,Front End,Skoda,Citigo,Petrol,1
+2667,7000.056,11472.1,162918,1984,Rear End,Volkswagen,Golf V,Petrol,12
+3044,14399,14210.3,51552,1596,Front End,Ford,Focus,Petrol,6
+1833,5500.061,6829.8,73620,1149,Front End,Renault,Twingo Ii,Petrol,6
+855,7641.057143,7838.1,8152,1598,Rear End,Jeep,Renegade,Diesel,1
+508,16120.44444,7311.5,341,1598,Side,Audi,A3,Diesel,0
+2600,19399.975,11086.5,24632,1395,Rear End,Audi,A1 Sportback,Petrol,3
+969,4495.765077,3688,222731,999,Side,Volkswagen,Golf,Petrol,10
+456,9450.028,5890.9,89892,1598,Front End,Volkswagen,Golf VI,Diesel,7
+2308,5714.3,7239.4,103056,1198,Side,Volkswagen,Polo V,Petrol,8
+2775,8000.013,5525.9,12576,999,Rear End,Renault,Twingo,Petrol,1
+1395,12852,23446,65711,1396,Rear End,Kia,Cee'd,Petrol,4
+2187,5000.023,5077.1,113504,1598,Side,Peugeot,308,Petrol,10
+500,23500.001,13831.8,64696,1968,Front End,Volkswagen,Sharan,Diesel,4
+144,9663.9,9818.6,134824,2299,Front End,Renault,Master,Diesel,1
+2820,3599.988,8300,82129,1198,Front End,Seat,Ibiza,Petrol,9
+559,10000,6858.7,21840,1248,Front End,Opel,Corsa,Diesel,1
+807,19117.7,13366.1,20685,1968,Rear End,Volkswagen,PASSAT Variant,Diesel,1
+397,4499.985,3942.7,170799,1896,Front End,Seat,Ibiza,Diesel,8
+704,2380,5306.9,241628,2958,Front End,Opel,Vectra,Diesel,14
+2476,4950.043,6000,56005,1360,Front End,Peugeot,206 +,Petrol,8
+1771,7799.974,7920.2,29934,1242,Front End,Opel,Agila,Petrol,7
+1256,5712,4399.9,70872,1086,Rear End,Hyundai,i10,Petrol,5
+31,20000,16563,78341,999,Front End,Mazda,Cx-5,Diesel,4
+136,8231.37875,6578.8,218121,1598,Rear End,Volkswagen,Golf,Diesel,6
+1723,4499.985,7294.8,77539,1198,Side,Skoda,Fabia,Petrol,8
+2911,18400.018,14978.4,48485,1598,Front End,Mini,Countryman Cooper,Petrol,6
+76,6247.5,4379.7,166336,1997,Side,Peugeot,307,Diesel,10
+3031,4700.5,5889.8,101728,1242,Side,Ford,Fiesta,Petrol,10
+732,8627.5,6402.6,197812,1598,Hail,Volkswagen,Golf VI,Diesel,7
+2531,13000.036,14752.7,17799,1197,Front End,Seat,Ibiza,Petrol,2
+2469,9044,10000,97395,1390,Hail,Seat,Leon,Petrol,7
+3000,16481.5,14001.8,9657,1197,Front End,Skoda,Fabia Combi,Petrol,1
+544,18900.056,18508.7,187743,2987,Front End,Mercedes-Benz,E,Diesel,7
+3091,4760,8000,74026,1399,Hail,Chevrolet,Aveo,Petrol,9
+1010,3689,7700,141098,1390,Rear End,Volkswagen,Fox,Petrol,11
+2807,4284,4460.9,176378,1598,Front End,Mazda,3,Petrol,13
+2797,4165,6445.8,118781,1364,Side,Opel,Astra,Petrol,12
+432,4400.025,3231.1,281373,2497,Side,BMW,5,Diesel,14
+2722,15946,19656.9,10423,1390,Front End,Volkswagen,Golf VI,Petrol,7
+2953,4998,12000,108795,1388,Hail,Ford,Fiesta,Petrol,10
+689,6699.938,16000,163747,1968,Front End,Volkswagen,PASSAT Variant 2.0 TDI,Diesel,10
+178,6247.5,11719.3,117448,1968,Front End,Skoda,Octavia,Diesel,13
+2534,3683.466667,10723.5,1803,1398,Side,Opel,Corsa,Petrol,0
+3043,5449.962,7676.9,72363,1364,All Over,Opel,Astra,Petrol,9
+1079,4641,5306.7,105119,998,Front End,Citroen,C1,Petrol,9
+1982,4199.986,6400,135267,1364,Front End,Opel,Astra H Caravan,Petrol,9
+2922,11000.003,11738.7,19338,1398,Front End,Opel,Corsa,Petrol,2
+1369,6376.373394,12000,3305,1149,Front End,Renault,Clio Iv,Petrol,0
+299,14399,16263.1,163036,1968,Front End,Audi,A3,Diesel,5
+181,12376,8945.6,144972,1995,Side,BMW,3,Diesel,6
+1064,4879,2655,104245,1360,Front End,Peugeot,207,Petrol,10
+668,9663.9,14952.7,236249,2993,Rear End,BMW,3er Coupe,Diesel,9
+1897,21218.5,13597.7,2564,1197,Front End,Seat,Leon,Petrol,0
+1011,4564.81025,5824,124473,999,Front End,Skoda,Fabia,Petrol,7
+746,7400.015,6525.2,184251,1968,Side,Volkswagen,Passat Variant,Diesel,11
+238,27731.1,10202.3,1901,1956,All Over,Opel,Lnsignia,Diesel,0
+1517,8984.5,6046.3,68593,1229,Side,Opel,Corsa,Petrol,5
+148,3569.616667,6708.1,169481,1968,Front End,Volkswagen,Passat,Diesel,11
+2321,8300.012,8603.3,31959,998,Front End,Hyundai,i10,Petrol,2
+792,8925,9679.4,197458,2497,Side,BMW,5,Diesel,11
+2816,4226.569565,5258.8,118123,1229,Side,Opel,Corsa,Petrol,10
+1900,5149.963,4833.7,123935,1596,Side,Ford,Focus,Petrol,8
+2298,5493.833333,7021.6,70306,875,Front End,FIAT,500,Petrol,7
+3063,3150.049,6320.9,108896,1240,Front End,Nissan,Micra,Petrol,11
+207,21777,18553.5,33313,1598,Side,Audi,A1,Diesel,1
+2842,5474,5861.4,40698,1332,Side,Mitsubishi,Colt,Petrol,10
+961,6200.019,4259,84077,999,Rear End,Ford,Fiesta,Petrol,7
+1794,14747.9,10593,16559,1598,Side,FIAT,Tipo,Petrol,1
+1110,4760,6178.8,120178,1587,Side,Citroen,C4,Petrol,10
+1453,4165,5869.8,132583,1998,Rear End,Renault,Megane,Petrol,13
+1914,5355,4360.2,102767,1386,Rear End,Nissan,Note,Petrol,8
+1974,6450.038,6144.9,44903,1364,Side,Opel,Corsa,Petrol,9
+2773,6200.019,4688.9,83956,2261,Side,Ford,Maverick,Petrol,12
+354,23214.3,13493.1,9089,1598,Rear End,Volkswagen,Golf,Diesel,0
+2936,6200.019,7272,152952,1596,Side,BMW,1er,Petrol,11
+1678,4499.985,5981.6,126425,1798,Front End,Ford,Focus Turnier,Petrol,11
+2172,11500.041,10914.7,75800,2034,Front End,Mercedes-Benz,B-Klasse,Petrol,9
+1504,5831,6397.8,142808,1598,Front End,Opel,Zafira,Petrol,10
+2934,4799.984,4669.6,75469,1360,Front End,Peugeot,207,Petrol,7
+2282,5500.061,7319.8,94912,1364,Side,Opel,Corsa D,Petrol,9
+2943,4998,3644.2,120140,1490,Side,Suzuki,Swift Lim.,Petrol,11
+677,8568,9800,187721,1968,Front End,Audi,A3,Diesel,11
+1425,4585.441875,3113.8,170584,1396,Front End,Hyundai,i30,Petrol,8
+1420,6723.5,4894,129861,1798,Front End,Ford,C-Max,Petrol,10
+152,2975,4564.1,248291,1896,Rear End,Volkswagen,Golf,Diesel,14
+75,13090,15600,144106,2184,Front End,Mazda,6,Diesel,8
+1179,8092,10962.2,57895,1368,Side,FIAT,Punto,Petrol,6
+165,6247.5,8528.4,153683,1968,Hail,Volkswagen,Passat,Diesel,12
+455,5999.98,12900,179334,1896,Side,Audi,A3 Sportback,Diesel,13
+2380,13499.955,18500,10927,1364,Front End,Opel,Meriva B,Petrol,4
+2487,10115,13500,14429,999,Hail,Opel,Karl,Petrol,3
+468,10250.065,13224.4,163339,1598,Front End,Skoda,Superb,Diesel,7
+1865,6500.018,7232,148774,1699,Side,Mercedes-Benz,A,Petrol,9
+3081,16481.5,20000,1101,999,Hail,Nissan,Micra,Petrol,0
+23,10948,10095.2,182876,1968,Front End,Volkswagen,Passat,Diesel,9
+797,14399.952,35000,118298,1796,Undercarriage,Mercedes-Benz,B-Klasse,Diesel,5
+1809,6500.018,8108.2,109353,1598,Side,Opel,Astra,Petrol,9
+1026,3689,6214.3,220461,1390,Front End,Volkswagen,Golf,Petrol,12
+823,11344.5,2972.2,21731,1968,Side,Volkswagen,Passat,Diesel,1
+1684,4641,5368.6,93965,1598,Front End,Mercedes-Benz,A,Petrol,15
+2075,3099.95,4794.1,114697,1149,Front End,Dacia,Sandero,Petrol,8
+147,16065,12157.6,59493,1995,Side,Renault,Scenic Iii,Diesel,4
+1477,9401,7843.9,107695,1598,Side,Opel,Zafira,Petrol,9
+1376,4760,3904.6,71442,998,Front End,Peugeot,107,Petrol,9
+2900,6895.178947,11421.4,17020,1399,Front End,Opel,Astra,Petrol,0
+2453,17500.021,8055.6,53615,1598,Front End,BMW,Mini,Petrol,7
+1944,5999.98,6557.8,115909,1796,Front End,Opel,Astra,Petrol,11
+2561,4299.946,7479,71646,998,Side,Citroen,C1,Petrol,8
+2287,5799.941,8012.2,31896,1242,Front End,Ford,Ka,Petrol,4
+2041,3899.987,5022.8,140868,1198,Front End,Skoda,Roomster,Petrol,11
+1834,5300.022,10108.2,107050,1339,Side,Honda,Civic,Petrol,12
+2331,5799.941,6308.9,133132,1198,Side,Skoda,Fabia,Petrol,6
+145,7900,15404,214636,999,Side,Volkswagen,Passat,Diesel,6
+2622,6249.999,11656.3,113473,1598,Front End,Mazda,3,Petrol,9
+172,7140,5602.2,220870,1968,Side,Volkswagen,Passat,Diesel,8
+1945,10600.044,9290.8,7101,1198,Front End,Ford,KA Plus,Petrol,1
+952,8925,4481.9,124674,1586,Front End,Suzuki,Sx4,Petrol,8
+1749,13000.036,15150.3,31584,1197,Front End,Audi,A1,Petrol,7
+1950,7199.976,9997.5,80589,1596,Front End,BMW,1,Petrol,12
+923,3600.027667,6273.5,128410,1248,Side,FIAT,Punto,Diesel,6
+2040,13900.033,13999.7,43674,1197,Rear End,Volkswagen,Polo,Petrol,2
+413,8200.052,11624.9,98366,1896,Front End,Audi,A3,Diesel,10
+518,7499.975,7780.7,168031,1995,Front End,BMW,3er,Diesel,11
+514,10250.065,10425.5,154674,1995,Front End,BMW,3er,Diesel,9
+3093,5500.061,7609.7,90069,1498,Front End,Mercedes-Benz,A,Petrol,8
+585,5449.962,9114.2,108881,1991,Rear End,Mercedes-Benz,A,Diesel,9
+1213,5771.5,10000,36284,998,Front End,Citroen,C1,Petrol,8
+1582,7499.975,9046.5,19010,1242,Front End,FIAT,Panda,Petrol,2
+3041,13109.2,11945.7,14150,999,All Over,Volkswagen,Polo,Petrol,0
+2001,3500.028,1848.8,255893,1598,Side,Mini,Cooper,Petrol,14
+1147,5474,4790.9,171009,1995,Hail,BMW,3,Petrol,11
+1236,9327.7,9848.1,23867,1197,Front End,Volkswagen,Polo,Petrol,2
+1237,4375.5705,3219,79632,1198,Front End,Skoda,Fabia,Petrol,8
+2207,6100.059,8050,68092,1248,Front End,Hyundai,i20,Petrol,4
+2542,6307,4603,52887,1229,All Over,Opel,Corsa,Petrol,9
+2168,5900.02,6102.1,106888,1242,Front End,Opel,Agila B,Petrol,8
+2065,7799.974,7519.2,32426,1598,Front End,Peugeot,207,Petrol,8
+1877,12299.959,6505.3,88267,1591,Front End,Kia,Cee'd,Petrol,5
+2489,4915.95,4174.8,542,999,Front End,Volkswagen,Up!,Petrol,0
+613,9899.967,8425.9,134850,1968,Rear End,Volkswagen,Touran,Diesel,10
+628,7050.036,13933.1,129099,1991,Side,Mercedes-Benz,A-Klasse,Diesel,7
+1690,8330,4962.8,51004,1198,Side,Volkswagen,Polo,Petrol,7
+2659,13923,16500,38266,998,Front End,Ford,B-Max,Petrol,4
+1314,5950,11602.6,75084,1198,Front End,Honda,Jazz,Petrol,8
+244,20230,13027,85555,2191,Side,Mazda,6,Diesel,3
+2999,2023,5042,235316,1242,Side,FIAT,Panda,Petrol,9
+2061,3927,5300,112214,1242,Front End,Ford,Ka,Petrol,6
+2115,22850.023,20701.9,72201,1997,Front End,BMW,X1,Petrol,7
+826,2975,5868,211331,1870,All Over,Renault,Scenic,Diesel,12
+1,8330,4920,156921,1896,Rear End,Volkswagen,Touran,Diesel,9
+99,4403,4933.8,225675,1422,Front End,Audi,A2,Diesel,14
+88,11781,14546.3,82012,1598,Side,Volkswagen,Golf,Diesel,7
+115,2889.577833,5966.8,166167,1968,Front End,Volkswagen,Golf,Diesel,13
+1199,9877,7147.4,107837,1598,Front End,Mini,Cooper,Petrol,7
+2599,5712,7660,76142,1198,Front End,Volkswagen,Polo IV,Petrol,10
+256,10115,8610.9,117305,1560,Front End,Peugeot,Partner,Diesel,6
+1905,4499.985,9400,133912,1498,Side,Mercedes-Benz,A,Petrol,11
+2707,6307,9936.3,95694,1798,Rear End,Mazda,6,Petrol,12
+1768,9800.007,6589.5,66159,1197,Side,Skoda,Roomster,Petrol,5
+1027,11067,8096.9,16704,1248,Front End,Hyundai,i20,Petrol,2
+2202,7506.147368,5239.2,19810,999,Side,Volkswagen,Golf VII,Petrol,1
+210,9758,13529.4,184836,2987,Front End,Mercedes-Benz,E,Diesel,10
+1363,12614,17070.6,87152,1796,Front End,Mercedes-Benz,C,Petrol,10
+2874,15126,11799.1,3490,1395,Rear End,Skoda,Rapid,Petrol,0
+6,4998,8400,247224,999,Side,Volkswagen,Touran,Diesel,13
+70,7973,6948.4,158205,1896,Front End,Volkswagen,Golf,Diesel,9
+548,4266.8206,3681.2,183132,1364,Front End,Toyota,Corolla,Diesel,14
+2133,8235.3,11638.6,5829,1229,Front End,Opel,Corsa E,Petrol,1
+880,5050.003,8403.4,227388,1968,Side,Audi,A3,Diesel,13
+2344,6500.018,5671.6,32695,1229,Front End,Opel,Corsa,Petrol,6
+2739,8187.2,6946.1,147325,1390,Front End,Audi,A3,Petrol,10
+1066,5712,4342.8,181247,1598,Side,Renault,Megane II Coupe/Cabrio,Petrol,9
+2325,6806.7,6394.2,65652,1598,Side,Dacia,Dokker,Petrol,4
+128,5117,4184.7,174586,1896,Front End,Volkswagen,Golf,Diesel,16
+130,14875,16363.6,55973,1997,Front End,Volvo,C70,Diesel,8
+2704,10799.964,10832.6,24590,1398,Front End,Opel,Corsa,Petrol,3
+879,5999.98,12900,179334,1896,Side,Audi,A3 Sportback,Diesel,13
+586,4266.665667,9243.7,241587,1896,Front End,Volkswagen,Golf V Plus,Diesel,11
+666,7499.975,8282.4,120809,1995,Side,BMW,1er,Diesel,11
+851,17400.061,16344.5,156869,1968,Front End,Audi,Q5,Diesel,8
+2678,26596.6,13022,3443,1395,Front End,Volkswagen,Passat Variant,Petrol,0
+2463,6899.977,15126,47648,1598,Front End,Mazda,3,Petrol,9
+1268,5950,8415.7,44942,999,Front End,Volkswagen,Up,Petrol,5
+1956,7700.014,6515.4,22862,999,Side,Renault,Twingo,Petrol,4
+624,21951.216,32018.4,62180,1995,Rear End,BMW,3er,Diesel,3
+292,5236,2883,344564,2496,Side,Skoda,Superb,Diesel,10
+1393,17731,24081.9,96615,1995,Front End,BMW,3,Petrol,7
+2269,5500.061,7728.9,38053,1198,All Over,Skoda,Fabia,Petrol,9
+641,9260.58,9942.5,47369,1598,Side,Volkswagen,Caddy,Diesel,5
+1218,4165,5366.9,126742,1398,Rear End,Toyota,Corolla,Petrol,14
+1931,6500.018,7750.9,55508,1149,Top/Roof,Renault,Wind,Petrol,7
+1495,3808,2224.9,135461,1149,Front End,Renault,Clio Iii,Petrol,11
+192,22689.1,11407.7,15053,1968,Side,Volkswagen,Golf,Diesel,0
+2792,4879,3451.1,110908,1229,Rear End,Opel,Corsa,Petrol,10
+25,9500.008,6952,146255,999,Rear End,Mercedes-Benz,ML,Diesel,14
+1532,3750.047,3482.9,106098,698,Rear End,Smart,Fortwo Cabrio,Petrol,12
+1869,4811.184875,6209.1,41301,998,Rear End,Toyota,Yaris,Petrol,8
+1633,10591,8401.6,129899,2494,Rear End,BMW,5,Petrol,13
+2078,12899.957,14509.7,95807,1390,Front End,Volkswagen,Scirocco,Petrol,9
+2738,15760.96667,11657.9,1406,1595,Front End,Mercedes-Benz,C,Petrol,0
+2200,8629.999,5995.8,6853,1242,Front End,Ford,Ka,Petrol,2
+1292,7499.975,9643,57690,999,Front End,Suzuki,Swift,Petrol,6
+2762,10900.4,7697.3,69835,1396,Side,Hyundai,i30,Petrol,7
+2705,4621.754455,6356.2,181619,1598,Undercarriage,Opel,Astra,Petrol,9
+2422,19040,9057.7,25040,1395,Hail,Seat,Leon ST,Petrol,3
+1041,5239.57,2953,89289,1390,Side,Volkswagen,Polo,Petrol,12
+2848,17850,12232.1,17442,1598,Front End,Opel,Mokka,Petrol,5
+2192,4600.064,2683.9,70171,1242,Front End,FIAT,Panda,Petrol,7
+3068,16092.4,19045.2,12142,999,Front End,Volkswagen,Golf,Petrol,0
+2734,5414.5,10100,37670,998,Front End,Citroen,C1,Petrol,8
+1921,5600.021,5088.7,166331,1595,Front End,Volkswagen,Golf V,Petrol,10
+2340,2999.99,5047.8,107880,1240,Side,Nissan,Micra,Petrol,10
+2114,3500.028,6850.1,97384,1242,Side,FIAT,Panda,Petrol,9
+1234,2618,2108.4,118664,998,Front End,Toyota,Aygo,Petrol,11
+1597,8800.05,7460.3,25342,1248,Front End,Hyundai,i20,Petrol,5
+274,11067,18662.5,120086,1991,Side,Mercedes-Benz,A,Diesel,6
+2335,4760,3745.4,118855,1229,Front End,Opel,Corsa D,Petrol,11
+2156,6150.039,12500,114667,1699,Front End,Mercedes-Benz,A,Petrol,9
+2891,14899.99,13312.9,45079,1390,Front End,Volkswagen,Golf VI,Petrol,5
+2042,19399.975,11086.5,24632,1395,Rear End,Audi,A1 Sportback,Petrol,3
+1765,4199.986,4037.1,49623,998,Front End,Opel,Corsa D,Petrol,11
+755,2857.1,4553.7,247696,1995,Rear End,Renault,Espace,Diesel,12
+811,7021,7509.7,215565,1968,Front End,Audi,A3,Diesel,11
+179,15708,13185.9,77700,2148,Side,Mercedes-Benz,C,Diesel,8
+1432,4403,5439.2,143978,1598,Front End,Dacia,Logan,Petrol,9
+2377,4750.004,7978.6,129408,1242,Front End,Ford,Fiesta,Petrol,8
+3019,5831,5953.7,60990,1364,Front End,Opel,Astra,Petrol,12
+2962,2799.951,5387.5,142206,998,Front End,Citroen,C1,Petrol,12
+2471,9500.008,5982,88871,1390,Side,Volkswagen,Golf VI Plus,Petrol,6
+948,4700.5,6092,72524,1198,Side,Volkswagen,Fox,Petrol,9
+1898,4700.5,5450,65384,1149,Side,Dacia,Sandero,Petrol,8
+1896,7499.975,9046.5,19010,1242,Front End,FIAT,Panda,Petrol,2
+2224,2499.952,2696.5,94249,1124,Front End,Citroen,C2,Petrol,11
+2034,6800.017,15000,46649,1332,Rollover,Mitsubishi,Colt,Petrol,6
+2354,8475.061,8373.8,81671,1390,Hail,Seat,Ibiza,Petrol,6
+3023,4275.7295,3471.6,183944,1796,Front End,BMW,3er,Petrol,14
+2908,19000.016,19860.8,19024,1498,Undercarriage,Ford,C-Max,Petrol,2
+870,13447,21008.4,151761,1995,Front End,BMW,5,Diesel,9
+86,14161,25210.1,101877,1598,All Over,Volkswagen,Golf,Diesel,4
+1411,6842.5,6109.5,108180,1587,Rear End,Citroen,Berlingo,Petrol,8
+92,9159.7,6513.9,198070,1968,Rear End,Volkswagen,Passat,Diesel,5
+1558,6057.355,10054.5,102773,1598,Rear End,Seat,Ibiza,Petrol,6
+2459,5250.042,5898.5,72723,1595,Rear End,Skoda,Octavia Combi,Petrol,13
+877,5399.982,6501,225969,1995,Front End,BMW,3er,Diesel,12
+2821,4760,5175.1,127050,1798,Side,Ford,Focus C-Max,Petrol,12
+1566,7616,13561.5,89701,1498,Rear End,Mercedes-Benz,A,Petrol,10
+842,10350.025,9507,158768,1968,Front End,Skoda,Superb,Diesel,7
+2855,21554.6,19279.9,5963,1498,Front End,Volkswagen,Golf VII,Petrol,0
+1224,11662,11531.8,7359,999,Side,Volkswagen,Up,Petrol,1
+2579,10710,8962,42417,1197,Front End,Skoda,Fabia,Petrol,6
+1364,7437.5,7147.1,122930,1975,Front End,Hyundai,Tucson,Petrol,11
+276,4998,5233.7,220054,1998,Front End,Volvo,V50,Diesel,13
+347,4899.944,3629.8,177273,1968,Rear End,Volkswagen,Golf V,Diesel,13
+2868,6902,14200.2,85804,1364,Side,Opel,Corsa,Petrol,10
+934,5200.062,7161,169744,999,Side,Peugeot,307,Petrol,11
+493,9599.968,13417.1,107015,1598,Front End,Audi,A3 Sportback,Diesel,8
+1702,4460.575,4003.1,17430,998,Front End,Ford,Fiesta,Petrol,1
+1129,4522,9243.7,96185,1360,Front End,Peugeot,206+,Petrol,7
+1300,3510.5,1686.5,175643,1598,Rear End,Opel,Astra,Petrol,12
+1135,4641,5850,115854,998,Front End,Citroen,C1,Petrol,8
+2103,6100.059,7162.2,129627,1595,Front End,Volkswagen,Golf V,Petrol,11
+696,8349.992,12033.7,124476,1870,Front End,Renault,Scenic Iii,Diesel,7
+968,3750.047,3441,163057,999,Front End,Citroen,C4,Petrol,9
+2126,7499.975,14924.5,76021,1598,Side,Nissan,Note,Petrol,8
+2898,27132,27418.8,118037,4799,Front End,BMW,6,Petrol,10
+1775,2000.033,2314.5,157963,1390,Front End,Dacia,Sandero,Petrol,8
+2280,4499.985,5266.3,137499,1242,Front End,Ford,Fiesta,Petrol,8
+1142,5295.5,9626.4,132120,1364,Side,Opel,Astra,Petrol,8
+800,2845.508167,6104.9,241111,1910,Front End,Opel,Astra H Caravan,Diesel,11
+1056,8500.051,10690,14243,999,Front End,Opel,Corsa,Petrol,2
+701,3899.987,5434.3,172187,1560,Rear End,Peugeot,207,Diesel,10
+1806,3800.027,4295.9,133354,1328,Front End,Suzuki,Swift,Petrol,11
+2140,5489.946,9307,111355,1198,Rear End,Volkswagen,Polo IV,Petrol,11
+66,8330,10714,187820,1968,Front End,Audi,A4,Diesel,9
+351,5500.061,5879.3,159638,1992,Front End,Mercedes-Benz,A,Diesel,10
+953,6902,5102.2,71455,1242,Front End,FIAT,Panda,Petrol,4
+2044,4499.985,3512.2,155204,1498,Front End,Mercedes-Benz,A,Petrol,13
+2772,20825,16000,17918,1364,Hail,Opel,Zafira,Petrol,3
+2048,2099.993,4585.9,138064,1984,Front End,Volkswagen,New Beetle,Petrol,19
+1559,4284,1904.1,102255,1240,Front End,Nissan,Micra,Petrol,10
+1747,5890.5,5608.1,64145,998,Front End,Opel,Corsa,Petrol,9
+2139,3599.988,4238.9,89059,998,Front End,Citroen,C1,Petrol,8
+1062,3729.658333,3771.7,164601,1086,Front End,Hyundai,i10,Petrol,7
+825,30252.1,29282.8,10999,1968,Side,Audi,A4 Avant,Diesel,0
+2351,3500.028,9327,81246,3802,Front End,Chrysler,Voyager,Petrol,14
+602,8200.052,4836.8,147681,1870,Front End,Suzuki,Grand Vitara,Diesel,10
+1725,3881.502333,4058.3,69952,999,Front End,Smart,fortwo coupe,Petrol,6
+510,16470.6,9255.4,12868,1598,Front End,Skoda,Octavia,Diesel,1
+1357,4403,2741.6,87723,1598,Rear End,Renault,Megane Ii,Petrol,11
+2481,7050,3646.2,23770,998,Minor Dents/Scratches,Citroen,C1,Petrol,3
+2677,3150.049,4883.6,121668,1587,Rear End,Peugeot,307 Break,Petrol,15
+3025,4971.354545,2867.8,11470,998,Rear End,Ford,Fiesta,Petrol,0
+2029,13109.2,5000.3,10970,1368,Front End,Kia,RIO III,Petrol,1
+1816,4299.946,4438.8,162634,2198,Front End,Opel,Vectra C Caravan,Petrol,11
+1830,7400.015,5829.6,39632,1198,Front End,Honda,Jazz,Petrol,9
+2573,3299.989,4474.8,92704,1086,Side,Kia,Picanto,Petrol,9
+868,6899.977,7816.4,197979,1598,Front End,Volkswagen,Golf VI,Diesel,7
+1663,12257,10598.4,68521,1197,Front End,Volkswagen,Polo,Petrol,5
+713,6500.018,13000,211493,1560,Front End,Citroen,C4,Diesel,5
+1948,29100.022,23743.8,503,1997,Front End,Mazda,Cx-5,Petrol,1
+1262,6399.939,7999,106856,999,Front End,Honda,Civic,Petrol,9
+1113,20111,15986,24007,999,Front End,Volkswagen,Passat,Petrol,4
+3050,4950.043,10842.1,120937,1390,Rear End,Volkswagen,Golf V Variant,Petrol,11
+820,2618,4213.3,179377,1461,Rear End,Dacia,Logan,Diesel,10
+1932,10799.964,5254,14482,1242,Top/Roof,Ford,Fiesta,Petrol,2
+616,2749.971,2926,224707,1686,Front End,Opel,Meriva,Diesel,11
+1094,9639,7584.4,144813,1995,Front End,BMW,3,Petrol,10
+857,5653.174333,11405.5,113586,1598,Side,Volkswagen,Golf VI Variant,Diesel,6
+2829,10115,9572,58280,1796,Side,Mercedes-Benz,E-Klasse,Petrol,13
+2257,7000.056,15000,68020,1995,Side,Seat,Altea,Petrol,9
+747,8999.97,16806.7,205374,1968,Front End,Audi,A4 Avant,Diesel,10
+1441,8718.336667,7634.9,96874,1596,Front End,Ford,Focus,Petrol,6
+1322,11781,9153.5,3905,998,Side,Hyundai,i10,Petrol,1
+1857,14958,22676.8,20860,1364,Front End,Opel,Mokka,Petrol,0
+694,6498.6,11000.9,2212,1997,Front End,Citroen,Jumpy,Diesel,0
+2268,5000.023,8000,59502,1242,Front End,Ford,Ka,Petrol,5
+1890,24831.9,36575.5,531,1490,All Over,Opel,Insignia,Petrol,0
+778,6069,5233.1,176274,1997,Mechanical,Citroen,C4,Diesel,9
+575,13000.036,17500,104030,1995,Front End,Nissan,Qashqai,Diesel,6
+1108,10650.5,9060,37083,999,Side,Chevrolet,Aveo,Petrol,4
+408,14411.8,8249.3,256,1582,Side,Kia,Cee'd,Diesel,1
+1856,5500.061,8661.8,46965,998,Rear End,Opel,Corsa,Petrol,10
+72,3949.6,6500,181570,1199,Side,Seat,Ibiza,Diesel,5
+2493,7259,5954.9,74631,999,Front End,Volkswagen,Up!,Petrol,6
+364,13900.033,8980.6,11,1997,Front End,Peugeot,508 SW,Diesel,5
+436,6100.059,7009.7,128303,1910,Side,FIAT,Sedici,Diesel,10
+503,8999.97,10066.2,228626,1896,Front End,Volkswagen,Caddy,Diesel,11
+2058,6500.018,5793.3,101963,1597,Front End,BMW,1,Petrol,11
+259,11305,10203.9,178670,2993,Vandalism,BMW,5,Diesel,10
+2814,952,1602.4,175671,1198,Front End,Seat,Ibiza,Petrol,11
+1790,11200.042,10972.2,68681,1390,Side,Volkswagen,Golf VI Plus,Petrol,8
+1620,15589,12885.2,48624,1197,Side,Volkswagen,Golf,Petrol,4
+205,4165,3745.4,283710,2496,All Over,Volkswagen,Passat,Diesel,12
+532,5574.5,12605,233480,2967,All Over,Volkswagen,Phaeton,Diesel,12
+742,12815.125,7546.1,2883,1968,Front End,Skoda,Octavia,Diesel,0
+2083,8600.011,10814.2,13055,1595,Side,Volkswagen,Golf V,Petrol,10
+3096,7735,9955.7,131009,1390,Side,Audi,A2,Petrol,13
+1396,9520,9531.9,36035,998,Rear End,Toyota,Aygo,Petrol,2
+930,14550.011,16208.7,4638,1497,Front End,Toyota,Yaris,Hybrid Engine,1
+315,14512.169,6567.7,34015,1598,Side,Audi,A1,Diesel,6
+94,28500,20421,647,999,Front End,Volkswagen,Golf,Diesel,1
+681,6299.979,10900,167489,1995,Side,Renault,Laguna Iii,Diesel,10
+2818,3689,1866.8,85327,1332,Side,Mitsubishi,Colt CZ3,Petrol,12
+2198,5399.982,5780.5,104132,1498,Rear End,Mercedes-Benz,A,Petrol,10
+1437,4100.026,5500,151801,1229,Front End,Opel,Corsa,Petrol,8
+873,7534.247,8461.1,181079,2993,All Over,BMW,3er,Diesel,10
+2971,3689,4878,246102,998,Rear End,Toyota,Aygo,Petrol,9
+2824,3451,4149.2,160685,1598,Front End,Dacia,Logan MCV,Petrol,9
+402,6500.018,5144.8,163182,1968,Rear End,Volkswagen,Passat,Diesel,11
+629,18403.4,11046,20793,1598,Side,Opel,Mokka,Diesel,1
+945,6349.959,3185,79375,999,Side,Volkswagen,Polo,Petrol,6
+2565,9800.007,5906.7,120269,1364,Rear End,Opel,Insignia,Petrol,7
+555,32352.9,23313.4,4023,1968,Side,Audi,A4,Diesel,0
+2284,19099.976,11118,28389,1598,Front End,Opel,Insignia,Petrol,3
+2228,8900.01,8379.8,41110,999,Front End,Opel,Karl,Petrol,3
+1736,6307,8906,93369,1308,Side,Mazda,Rx 8,Petrol,12
+2517,6188,7500,77998,1690,Hail,Lada,Niva,Petrol,8
+2683,3500.028,12605,155819,1798,All Over,Ford,Focus,Petrol,12
+1019,13685,11304.5,42231,1598,Front End,Citroen,Ds3,Petrol,4
+1626,20944,18219.4,37389,1798,Front End,Seat,Leon,Petrol,3
+1036,5304.226667,7010,159529,1390,Front End,Volkswagen,Polo,Petrol,7
+378,15799.987,17280.6,98232,1968,Front End,Audi,A3,Diesel,5
+2303,5600.021,7900,107905,1397,Front End,Renault,Megane Iii,Petrol,9
+1138,2737,2897.1,55045,1386,Side,Nissan,Note,Petrol,10
+1609,11999.96,11858.9,81554,1197,Front End,Volkswagen,Golf,Petrol,4
+2329,3800.027,7508.3,131365,1198,Front End,Skoda,Fabia,Petrol,10
+682,30500,28500,5644,1956,Hail,Opel,Insignia,Diesel,1
+2763,4165,5111.6,126199,1598,Front End,Opel,Astra,Petrol,13
+1646,10924.4,5851.8,17709,1364,Rear End,Opel,Corsa,Petrol,1
+1296,4641,3414.9,50900,1328,Side,Suzuki,Jimny,Petrol,16
+1666,18385.5,15377.8,15667,1197,Front End,Volkswagen,Golf,Petrol,3
+2261,6299.979,8107.8,120457,1596,Front End,Ford,Focus,Petrol,8
+783,23502.5,19166.8,32363,1997,Front End,Citroen,Ds4,Diesel,2
+988,3765.090583,4854,53712,1240,Front End,Nissan,Micra,Petrol,9
+2369,10199.966,8879.2,90217,1798,Side,Honda,Civic,Petrol,6
+254,6902,8619.6,160943,1686,Rear End,Opel,Astra,Diesel,9
+2505,2599.991333,8186.5,91734,1149,Rear End,Renault,Twingo,Petrol,8
+2510,4033.6,9648.9,138449,1498,Side,Mercedes-Benz,A,Petrol,11
+2694,2455.1009,5029.5,183516,1595,Rear End,Audi,A3,Petrol,15
+957,4165,2537,157615,999,Front End,BMW,3,Petrol,12
+1255,8568,10797.5,69265,1198,Front End,Skoda,Roomster,Petrol,6
+2324,5500.061,8177.1,89914,1364,Rear End,Opel,Astra,Petrol,9
+1002,4621.754455,16806.7,42625,1364,Side,Opel,Astra,Petrol,7
+1838,5799.941,9335.5,177510,2171,Front End,BMW,3er,Petrol,15
+2585,5200.062,5847.5,83697,1198,Front End,Skoda,Fabia,Petrol,8
+278,3865.6,11044.9,207243,1686,Front End,Opel,Zafira,Diesel,9
+931,24999.996,10214.9,837,1798,Rear End,Toyota,Auris Touring Sports,Hybrid Engine,0
+2547,2199.953,3034.5,125953,1198,Side,Volkswagen,Fox,Petrol,12
+1046,9401,7601,29694,999,Rear End,FIAT,Panda,Petrol,2
+1209,7497,8001.2,28735,1149,Front End,Renault,Twingo,Petrol,4
+2795,34300,26814.5,7518,2997,Front End,Infiniti,Q50,Petrol,0
+646,7318.5,15700,131953,1686,Front End,Opel,Astra,Diesel,6
+992,3733.3275,5740.9,170970,1596,Rear End,Ford,Focus,Petrol,11
+2518,4100.026,3121.9,48477,998,Rear End,Citroen,C1,Petrol,9
+2778,8984.5,6513.8,33697,998,Front End,Hyundai,i10,Petrol,4
+69,4760,6574.4,176723,1248,Front End,FIAT,Doblo,Diesel,9
+887,14042,9215.7,103988,1968,Hail,Volkswagen,Passat,Diesel,5
+1386,3808,3522.6,165756,1984,Front End,Audi,A4,Petrol,12
+2924,11424,20000,86287,1798,Water/Flood,Seat,Exeo,Petrol,8
+118,10681.41925,10941.9,247663,1968,Rear End,Audi,A6,Diesel,8
+1732,19159.7,9316.8,10055,1395,Front End,Audi,A3,Petrol,1
+1975,6200.019,5756,35607,1242,Side,Ford,Ka,Petrol,8
+2906,33613.4,20411.8,9080,1991,Rear End,Mercedes-Benz,C,Petrol,0
+1879,3699.948,3925.7,144809,1984,Side,Audi,A4,Petrol,15
+2312,7700.014,8057.3,27760,1910,Side,Opel,Corsa,Petrol,7
+2496,3599.988,3974.6,98734,1149,Side,Renault,Clio,Petrol,10
+546,9500.008,8246.7,140855,1598,Front End,Audi,A3,Diesel,7
+1096,9758,9731.1,83165,1397,Top/Roof,Renault,Megane Iii,Petrol,6
+97,8358.56,4574.8,223515,2993,Side,BMW,5,Diesel,13
+1674,5852.057143,9900,41732,1149,Side,Renault,Twingo,Petrol,3
+1919,2499.952,4400,201090,1149,Front End,Renault,Twingo Ii,Petrol,10
+2358,2231.25,4831.3,97396,1368,Side,FIAT,Linea,Petrol,9
+1888,4700.024,4741.5,138957,1596,Side,Ford,Focus,Petrol,11
+3056,6435.004333,6181.3,44732,1149,Side,Renault,Clio Iv,Petrol,4
+1196,5950,4448,78914,999,Front End,Nissan,Micra,Petrol,6
+2653,6899.977,13283.2,80005,1598,Side,Renault,Scenic Iii,Petrol,8
+2718,3966.842667,2242.4,14359,998,Front End,Toyota,Aygo,Petrol,0
+2494,19949.993,15763.3,14199,1595,Hail,Mercedes-Benz,A,Petrol,2
+2345,4400.025,5185,134143,1149,Side,Renault,Twingo,Petrol,6
+1205,7735,7346.4,55983,1198,Side,Volkswagen,Polo,Petrol,8
+3097,3808,3465.7,109430,998,Side,Toyota,Yaris,Petrol,10
+109,14815.5,11080.8,47409,1598,Side,Skoda,Rapid,Diesel,3
+2131,3899.987,9117.6,98244,1149,All Over,Renault,Clio Iii,Petrol,11
+2714,3399.949,7142.9,116113,1242,Front End,Ford,Ka,Petrol,9
+2681,4522,6500,129698,1598,Hail,Opel,Astra,Petrol,12
+859,3284.419833,10014.8,105646,1992,Side,Mercedes-Benz,A,Diesel,11
+434,6304.111545,17253.5,137406,1968,Front End,Audi,A3,Diesel,10
+2639,6899.977,5509.6,185052,1390,Mechanical,Volkswagen,Golf VI,Petrol,7
+2108,3699.948,8514.8,131426,1598,Front End,Dacia,Sandero,Petrol,7
+1930,2900.03,2676.3,187544,1595,Front End,Volkswagen,Golf V,Petrol,10
+264,4899.944,4959.1,222469,1968,Front End,Volkswagen,Golf,Diesel,9
+638,11000.003,17128.8,64594,1598,Front End,Audi,A3,Diesel,8
+1286,4284,3900,30415,1086,Front End,Hyundai,Getz,Petrol,9
+2559,7128.1,12794.4,74188,1242,Front End,FIAT,500,Petrol,9
+1266,6069,3744.7,146449,1898,Front End,Mercedes-Benz,Vaneo,Petrol,12
+1022,16660,11187,10153,999,Rear End,Opel,Astra J Sports Tourer,Petrol,1
+1092,7142.9,11694.4,46533,1398,Front End,Opel,Corsa,Petrol,4
+221,11680.7,15429.8,124261,1968,Front End,Volkswagen,Passat,Diesel,3
+2876,3570,6350,190240,1595,Side,Volkswagen,Golf V,Petrol,14
+372,8300.012,7992.9,223352,2148,Front End,Mercedes-Benz,C,Diesel,10
+2556,5200.062,4496.6,136253,1498,Front End,Mercedes-Benz,A-Klasse,Petrol,11
+714,6806.8,10417,124918,1997,Side,Citroen,C4,Diesel,7
+1709,4509.147339,6665,58153,1242,Top/Roof,FIAT,Punto,Petrol,5
+830,6100.059,3680.9,148234,1968,Side,Volkswagen,Golf,Diesel,10
+1044,6366.5,5403.9,88565,1198,Front End,Skoda,Fabia Combi,Petrol,8
+1059,6069,7915,69601,1149,Side,Renault,Clio Iii,Petrol,7
+2929,7700.014,10375.5,99512,1599,Side,BMW,1,Petrol,10
+174,18385.5,13697.5,121302,2143,Front End,Mercedes-Benz,C,Diesel,6
+1842,3899.987,3780,78306,1198,Side,Volkswagen,Fox,Petrol,8
+236,5712,2588.5,100827,1398,Front End,Peugeot,207,Diesel,8
+1365,3258.329083,6351.3,120775,1368,Side,FIAT,Grande Punto,Petrol,8
+2392,6849.997,5231.2,184685,1995,Front End,BMW,3er,Petrol,12
+1926,7000.056,7493.5,111534,1596,Rear End,BMW,1,Petrol,12
+1912,6750.037,8627.7,58158,1229,Side,Opel,Corsa,Petrol,9
+2016,4100.026,4912.1,118100,999,Side,Smart,Fortwo Cabrio,Petrol,10
+1617,11500.041,16386.5,98895,3726,Front End,Mazda,CX-9,Petrol,9
+1093,8211,8667.1,63455,1198,Side,Volkswagen,Polo,Petrol,8
+386,5250.042,8734.3,209795,1968,Front End,Volkswagen,Passat,Diesel,13
+2420,2917.3445,4377.6,175513,1246,Side,Honda,Jazz,Petrol,12
+897,7249.956,9232.6,182578,1896,Front End,Audi,A3 Sportback,Diesel,11
+203,5831,3659.9,196228,1896,Rear End,Volkswagen,Golf,Diesel,10
+1939,5500.061,8116.7,53767,1596,Front End,Ford,Focus,Petrol,12
+312,4899.944,4596.4,235874,1992,Front End,Mercedes-Benz,A,Diesel,9
+1526,9877,17647.1,70164,1598,Rear End,Toyota,Auris,Petrol,8
+771,7616,6756.2,130404,1499,Front End,Ford,Fiesta,Diesel,4
+685,4150.006,4684.3,181769,1560,Side,Peugeot,308,Diesel,7
+461,20882.3,19820.3,13016,1698,Side,Volkswagen,Golf VII Variant,Diesel,1
+1445,6069,7374,125536,1396,Side,Hyundai,i30,Petrol,8
+1741,4249.966,10900,50171,1388,Side,Ford,Focus,Petrol,11
+2286,6700,16570,89397,1388,Front End,Ford,B-Max,Petrol,2
+1016,8092,10000,109211,1596,Front End,Ford,Focus,Petrol,6
